@@ -3,5 +3,6 @@
 ### Agile Quiz Screenshot
 ![Agile Quiz](./SDLC/agile_quiz.png)
 
-### Agile Score Screenshot
-![Agile Score](./SDLC/agile_score.png)
+![Git training Simplilern](./Git/Git_Simplilearn.png)
+
+
