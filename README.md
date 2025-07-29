@@ -7,3 +7,7 @@
 ![Git training Simplilern](./Git/Git_Simplilearn.png)
 
 
+### Linux Basic Commands PDF
+[View Linux Commands](./Linux/linux%20commands.pdf)
+
+
